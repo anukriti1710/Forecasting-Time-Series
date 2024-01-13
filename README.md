@@ -1,1 +1,2 @@
 # Analytics-Projects
+In this project I have used the forecasting methods such as Exponential Smoothening, Adjusted Exponential Smoothening along with Linear Trend Forecasting to forecast the future values of two stocks, Apple and Honeywell Inc. Furthermore,I have used linear algebra to perform simple or multiple regression. Finally, I used error norms such as Mean Absolute Percentage Deviation (MAPD) and Mean Absolute Percentage Error (MAPE) to assess the accuracies of the forecasts.
